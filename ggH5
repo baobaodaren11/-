@@ -1,0 +1,293 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+ <meta charset="gbk">
+ <meta lang="zh">
+ <meta name="data-spm" content="a210c">
+   <title>淘宝网 - 淘我喜欢！</title>
+   <script>window.g_config={appId:15,toolbar:false,startTime:+new Date(),ap_mods:{poc:[.01],jstracker:[.01]},buyOrderConfig:{buInfo:"taobao"}};</script>
+ <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+ <meta name="renderer" content="webkit">
+ <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0">
+ <meta name="apple-mobile-web-app-capable" content="yes">
+ <meta name="apple-mobile-web-app-status-bar-style" content="black">
+ <meta name="format-detection" content="telephone=no">
+ <meta name="description" content="中国最大、最安全的网上交易社区，尽享淘宝乐趣！">
+ <meta name="keywords" content="淘宝,掏宝,网上购物,购物,论坛,联盟,买,卖,1元,一元,电脑,视听,MP3,MD,CD,VCD,DV,耗材,化妆,相机,数码,配件,珠宝,手表,艺术,宠物,求购,出租,出售,二手,汽车,音响,保健,讨价换价,一口价,拍卖,auction,sell,buy,price,bid">
+ <link href="//www.taobao.com/favicon.ico" rel="shortcut icon" type="image/x-icon">
+ <link href="https://a.alipayobjects.com" rel="dns-prefetch">
+ <link href="https://i.alipayobjects.com" rel="dns-prefetch">
+
+         <link rel="stylesheet" href="//g.alicdn.com/??kg/global-util/1.0.6/index-min.css,kg/tb-nav/2.4.1/index-min.css">
+ <script src="//g.alicdn.com/??kissy/k/1.4.16/seed-min.js,kg/kmd-adapter/0.1.5/index.js,kg/kmd-adapter/0.1.5/util.js,kg/global-util/1.0.7/index-min.js,tb/tracker/4.3.18/index.js,kg/tb-nav/2.5.4/index-min.js"></script>
+<script>KISSY.config({modules:{'flash':{alias:['gallery/flash/1.0/']}}});KISSY.use('kg/global-util/1.0.7/');KISSY.config({modules: {'kg/tb-nav':{alias:'kg/tb-nav/2.5.4/',requires:['kg/global-util/1.0.7/']}}});KISSY.ready(function(){KISSY.use('kg/tb-nav')});</script>
+     
+ <link rel="stylesheet" charset="UTF-8" href="//g.alicdn.com/tp/buy2/1.5.0/index.css" >
+ <base target="_blank"/>
+</head>
+   <body data-spm="1" ><script>
+with(document)with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("exparams","category=&userid=2242627299&aplus&yunid=&ebbe6ea5ef33d&trid=3d9bddc915875657882293509e&asid=AePGq4XcVKBeOF7uWwAAAACuublBNL+eaA==",id="tb-beacon-aplus",src=(location>"https"?"//g":"//g")+".alicdn.com/alilog/mlog/aplus_v2.js")
+</script>
+
+ 
+ <script>
+ function getCookie(e){for(var t=document.cookie.split("; "),c={},o=0;o<t.length;o++){var i=t[o].split("=");
+ c[i[0]]=i[1]}return unescape(decodeURIComponent(c[e]).replace(/\\u/g,"%u"))}
+ !function(c,b,d,a){with(c[a]||(c[a]={}),c[a].config={pid:"gf3el0xc6g@c7362cca9f7f200",page:"taobao-buy",imgUrl:"https://arms-retcode.aliyuncs.com/r.png?",tag:getCookie("tracknick"),disableHook:!0,sample:10},b)
+ with(body)with(insertBefore(createElement("script"),firstChild))setAttribute("crossorigin","",src=d)}
+ (window,document,"https://retcode.alicdn.com/retcode/bl.js","__bl");
+ </script>
+
+     <div class="site-nav" id="J_SiteNav" data-component-config='{ "cart": "0.0.6","message": "3.4.6","umpp": "1.5.4","mini-login": "6.3.8","tb-ie-updater": "0.0.4","tbar": "2.1.0","tb-footer": "1.1.7","sidebar": "1.0.10" }' data-tbar='{ "show":true, "miniCart": "2.12.2","paramsBlackList": "_wt,seeyouagain1722","my_activity": "https:&#x2F;&#x2F;market.m.taobao.com&#x2F;apps&#x2F;abs&#x2F;5&#x2F;38&#x2F;my12?psId=58386&amp;pcPsId=58388", "venueUrl": "https:&#x2F;&#x2F;1212.taobao.com?wh_weex=true&amp;data_prefetch=true&amp;wx_navbar_transparent=true", "helpUrl": "https://consumerservice.taobao.com/online-help", "validTime":{"startTime": 1512057599, "endTime": 1513094400}, "style": {"name": "171212", "path": "kg/sidebar-style-171212/0.0.5/" }, "page":[],"blackList":[],"navDataId":{"tceSid":1182567,"tceVid":0},"pluginVersion":{ "cart":"0.2.0","history":"0.2.0","redpaper":"0.0.8","gotop":"0.2.5","help":"0.2.1","ww":"0.0.3","pagenav":"0.0.27","myasset":"0.0.9","my1212":"0.0.1","my1111":"0.2.2"}}'>
+    <div class="site-nav-bd" id="J_SiteNavBd">
+        
+        <ul class="site-nav-bd-l" id="J_SiteNavBdL" data-spm-ab="1">
+            
+            
+            <li class="site-nav-menu site-nav-login" id="J_SiteNavLogin" data-name="login" data-spm="754894437">
+                <div class="site-nav-menu-hd">
+                    <a href="//login.taobao.com/member/login.jhtml?f=top&redirectURL=https%3A%2F%2Fwww.taobao.com%2F" target="_top">
+                        
+                        <span>亲，请登录</span>
+                    </a>
+                    
+                </div>
+                
+            </li>
+            
+            
+            
+            
+            <li class="site-nav-menu site-nav-mobile" id="J_SiteNavMobile" data-name="mobile" data-spm="1997563273">
+                <div class="site-nav-menu-hd">
+                    <a href="https://market.m.taobao.com/app/fdilab/download-page/main/index.html" target="_top">
+                        
+                        <span>手机逛淘宝</span>
+                    </a>
+                    
+                </div>
+                
+            </li>
+            
+            
+            
+            
+            <li class="site-nav-menu site-nav-weekend site-nav-multi-menu J_MultiMenu" id="J_SiteNavWeekend" data-name="weekend" data-spm="201711111212">
+            </li>
+            
+            
+            
+        </ul>
+        
+        <ul class="site-nav-bd-r" id="J_SiteNavBdR" data-spm-ab="2">
+            
+            
+            <li class="site-nav-menu site-nav-home" id="J_SiteNavHome" data-name="home" data-spm="1581860521">
+                <div class="site-nav-menu-hd">
+                    <a href="//www.taobao.com/" target="_top">
+                        
+                        <span>淘宝网首页</span>
+                    </a>
+                    
+                </div>
+                
+            </li>
+            
+            
+            
+            
+            <li class="site-nav-menu site-nav-mytaobao site-nav-multi-menu J_MultiMenu" id="J_SiteNavMytaobao" data-name="mytaobao" data-spm="1997525045">
+                <div class="site-nav-menu-hd">
+                    <a href="//i.taobao.com/my_taobao.htm" target="_top">
+                        
+                        <span>我的淘宝</span>
+                    </a>
+                    
+                    <span class="site-nav-arrow"><span class="site-nav-icon">&#xe605;</span></span>
+                    
+                </div>
+                
+                <div class="site-nav-menu-bd site-nav-menu-list">
+                    <div class="site-nav-menu-bd-panel menu-bd-panel">
+                    
+                            <a href="//trade.taobao.com/trade/itemlist/list_bought_items.htm" target="_top">已买到的宝贝</a>
+                    
+                            <a href="//www.taobao.com/markets/footmark/tbfoot" target="_top">我的足迹</a>
+                    
+                    </div>
+                </div>
+                
+            </li>
+            
+            
+            
+            
+            <li class="site-nav-menu site-nav-cart site-nav-menu-empty site-nav-multi-menu J_MultiMenu" id="J_MiniCart" data-name="cart" data-spm="1997525049">
+                <div class="site-nav-menu-hd">
+                    <a href="//cart.taobao.com/cart.htm?from=mini&ad_id=&am_id=&cm_id=&pm_id=1501036000a02c5c3739" target="_top">
+                        <span class="site-nav-icon site-nav-icon-highlight">&#xe603;</span>
+                        <span>购物车</span>
+                        <strong class="h" id="J_MiniCartNum"></strong>
+                    </a>
+                    
+                    <span class="site-nav-arrow"><span class="site-nav-icon">&#xe605;</span></span>
+                    
+                </div>
+                <div class="site-nav-menu-bd">
+                    <div class="site-nav-menu-bd-panel menu-bd-panel">
+                    </div>
+                </div>
+            </li>
+            
+            
+            
+            
+            <li class="site-nav-menu site-nav-favor site-nav-multi-menu J_MultiMenu" id="J_SiteNavFavor" data-name="favor" data-spm="1997525053">
+                <div class="site-nav-menu-hd">
+                    <a href="//shoucang.taobao.com/item_collect.htm" target="_top">
+                        <span class="site-nav-icon">&#xe604;</span>
+                        <span>收藏夹</span>
+                    </a>
+                    
+                    <span class="site-nav-arrow"><span class="site-nav-icon">&#xe605;</span></span>
+                    
+                </div>
+                
+                <div class="site-nav-menu-bd site-nav-menu-list">
+                    <div class="site-nav-menu-bd-panel menu-bd-panel">
+                    
+                            <a href="//shoucang.taobao.com/item_collect.htm" target="_top">收藏的宝贝</a>
+                    
+                            <a href="//shoucang.taobao.com/shop_collect_list.htm" target="_top">收藏的店铺</a>
+                    
+                    </div>
+                </div>
+                
+            </li>
+            
+            
+            
+            
+            <li class="site-nav-menu site-nav-catalog" id="J_SiteNavCatalog" data-name="catalog" data-spm="1997563209">
+                <div class="site-nav-menu-hd">
+                    <a href="//www.taobao.com/tbhome/page/market-list" target="_top">
+                        
+                        <span>商品分类</span>
+                    </a>
+                    
+                </div>
+                
+            </li>
+            
+            
+            <li class="site-nav-pipe">|</li>
+            
+            
+            
+            <li class="site-nav-menu site-nav-seller site-nav-multi-menu J_MultiMenu" id="J_SiteNavSeller" data-name="seller" data-spm="1997525073">
+                <div class="site-nav-menu-hd">
+                    <a href="//mai.taobao.com/seller_admin.htm" target="_top">
+                        
+                        <span>千牛卖家中心</span>
+                    </a>
+                    
+                    <span class="site-nav-arrow"><span class="site-nav-icon">&#xe605;</span></span>
+                    
+                </div>
+                
+                <div class="site-nav-menu-bd site-nav-menu-list">
+                    <div class="site-nav-menu-bd-panel menu-bd-panel">
+                    
+                            <a href="//mai.taobao.com/seller_admin.htm" target="_top">免费开店</a>
+                    
+                            <a href="//trade.taobao.com/trade/itemlist/list_sold_items.htm" target="_top">已卖出的宝贝</a>
+                    
+                            <a href="//sell.taobao.com/auction/goods/goods_on_sale.htm" target="_top">出售中的宝贝</a>
+                    
+                            <a href="//fuwu.taobao.com/?tracelog=tbdd" target="_top">卖家服务市场</a>
+                    
+                            <a href="//daxue.taobao.com/" target="_top">卖家培训中心</a>
+                    
+                            <a href="//healthcenter.taobao.com/home/health_home.htm" target="_top">体检中心</a>
+                    
+                            <a href="//infob.taobao.com/help" target="_top">问商友</a>
+                    
+                    </div>
+                </div>
+                
+            </li>
+            
+            
+            
+            
+            <li class="site-nav-menu site-nav-service site-nav-multi-menu J_MultiMenu" id="J_SiteNavService" data-name="service" data-spm="754895749">
+                <div class="site-nav-menu-hd">
+                    <a href="https://consumerservice.taobao.com" target="_top">
+                        
+                        <span>联系客服</span>
+                    </a>
+                    
+                    <span class="site-nav-arrow"><span class="site-nav-icon">&#xe605;</span></span>
+                    
+                </div>
+                
+                <div class="site-nav-menu-bd site-nav-menu-list">
+                    <div class="site-nav-menu-bd-panel menu-bd-panel">
+                    
+                            <a href="https://consumerservice.taobao.com/online-help" target="_top">消费者客服</a>
+                    
+                            <a href="//helpcenter.taobao.com/index?from=high" target="_top">卖家客服</a>
+                    
+                    </div>
+                </div>
+                
+            </li>
+            
+            
+            
+            
+            <li class="site-nav-menu site-nav-sitemap site-nav-multi-menu J_MultiMenu" id="J_SiteNavSitemap" data-name="sitemap" data-spm="1997525077">
+                <div class="site-nav-menu-hd">
+                    <a href="https://www.taobao.com/tbhome/page/sitemap" target="_top">
+                        <span class="site-nav-icon site-nav-icon-highlight">&#xe601;</span>
+                        <span>网站导航</span>
+                    </a>
+                    
+                    <span class="site-nav-arrow"><span class="site-nav-icon">&#xe605;</span></span>
+                    
+                </div>
+                
+            </li>
+            
+            
+            
+        </ul>
+        
+    </div>
+</div>
+
+<!--[if lt IE 8]>
+<style>html,body{overflow:hidden;height:100%}</style>
+<div class="tb-ie-updater-layer"></div>
+<div class="tb-ie-updater-box" data-spm="20161112">
+  <a href="https://www.google.cn/intl/zh-CN/chrome/browser/desktop/" class="tb-ie-updater-google" target="_blank" data-spm-click="gostr=/tbieupdate;locaid=d1;name=google">谷歌 Chrome</a>
+  <a href="http://www.uc.cn/ucbrowser/download/" class="tb-ie-updater-uc" target="_blank" data-spm-click="gostr=/tbieupdate20161112;locaid=d2;name=uc">UC 浏览器</a>"
+</div>
+<![endif]-->
+ 
+ <div id="container" style="width: 990px;margin: 0 auto"></div>
+<input type="hidden" id="tbToken" name="_tb_token_" value="ebbe6ea5ef33d"/>
+<script>
+ var submitURL="/auction/confirm_order.htm?x-itemid=575739054942&amp;x-uid=2242627299";
+ var orderData= {"endpoint":{"mode":"pc","osVersion":"PC","protocolVersion":"3.0","ultronage":"true"},"data":{"addressPC_1":{"fields":{"addrMakerUrl":"//member1.taobao.com/member/fresh/deliver_address_frame.htm?sign=_a2_wr_qwv6w_f_rd_zu8cp_i_w_zj9_x_jms_k_g_z_y7_z_d_l0v_p_ec_v_ai_i%252F0_dd0_j_g_u4v_a%253D%253D&from=tmall&reurl=%2F%2Fbuy.tmall.com%2Forder%2FaddressProxy.htm&version=1.0.10&sign_type=TEP&tid=2242627299","defaultAddressAPI":"/auction/update_address_selected_status.htm?_input_charset=utf-8","disableCurrentSelected":false,"lat":"31.749226","linkAddressId":"0","lng":"119.990454","managerAddressUrl":"//member1.taobao.com/member/fresh/deliver_address.htm","optStr":"[{\"addrMakerUrl\":\"//member1.taobao.com/member/fresh/deliver_address_frame.htm?sign=_a2_wr_qwv6w_f_rd_zu8cp_i_w_zj9_x_jms_k_g_z_y7_z_d_l0v_p_ec_v_ai_i%252F0_dd0_j_g_u4v_a%253D%253D&from=tmall&reurl=%2F%2Fbuy.tmall.com%2Forder%2FaddressProxy.htm&id=9306855428&version=1.0.10&sign_type=TEP&tid=2242627299\",\"addressDetail\":\"中吴大道中海凤凰熙岸5幢702室\",\"addressIconUrl\":\"\",\"addressUrl\":{\"addAddressAPI\":\"/auction/add_buyer_address.htm?_input_charset=utf-8\",\"addressUrlCommon\":\"//member1.taobao.com/member/fresh/deliver_address_frame.htm?sign=_a2_wr_qwv6w_f_rd_zu8cp_i_w_zj9_x_jms_k_g_z_y7_z_d_l0v_p_ec_v_ai_i%252F0_dd0_j_g_u4v_a%253D%253D&from=tmall&reurl=%2F%2Fbuy.tmall.com%2Forder%2FaddressProxy.htm&id=9306855428&version=1.0.10&sign_type=TEP&tid=2242627299\",\"defaultAddressAPI\":\"/auction/update_address_selected_status.htm?_input_charset=utf-8\",\"managerAddressUrl\":\"//member1.taobao.com/member/fresh/deliver_address.htm\",\"postCodeAPI\":\"/auction/json/get_postcode.do?_input_charset=utf-8\",\"updateAddressAPI\":\"/auction/update_buyer_address.htm?_input_charset=utf-8\",\"urlCommon\":\"//member1.taobao.com/member/fresh/deliver_address_frame.htm?sign=_a2_wr_qwv6w_f_rd_zu8cp_i_w_zj9_x_jms_k_g_z_y7_z_d_l0v_p_ec_v_ai_i%252F0_dd0_j_g_u4v_a%253D%253D&from=tmall&reurl=%2F%2Fbuy.tmall.com%2Forder%2FaddressProxy.htm&version=1.0.10&sign_type=TEP&tid=2242627299\"},\"areaName\":\"天宁\",\"attributes\":[],\"checked\":false,\"cityName\":\"常州\",\"consolidationGuide\":false,\"countryName\":\"\",\"defaultAddress\":true,\"deliveryAddressId\":9306855428,\"disable\":false,\"divisionCode\":\"320402\",\"enableMDZT\":false,\"enableStation\":false,\"enforceUpdate4Address\":true,\"fullName\":\"包煜\",\"hidden\":false,\"id\":\"347222\",\"lat\":\"31.749226\",\"lgShopId\":0,\"lng\":\"119.990454\",\"mainland\":true,\"mobile\":\"18852401491\",\"name\":\"\",\"needUpdate4Address\":false,\"needUpgradeAddress\":false,\"platformType\":\"PC\",\"postCode\":\"000000\",\"provinceName\":\"江苏\",\"stationId\":0,\"status\":\"normal\",\"storeAddress\":true,\"townDivisionId\":320402001,\"townName\":\"雕庄\",\"updateAddressTip\":\"\"},{\"addressDetail\":\"常熟市高新技术开发区薇尼诗花园西区12幢1403室\",\"addressIconUrl\":\"\",\"areaName\":\"常熟\",\"attributes\":[],\"checked\":false,\"cityName\":\"苏州\",\"consolidationGuide\":false,\"countryName\":\"\",\"defaultAddress\":false,\"deliveryAddressId\":8742370473,\"disable\":false,\"divisionCode\":\"320581\",\"enableMDZT\":false,\"enableStation\":false,\"enforceUpdate4Address\":true,\"fullName\":\"包煜\",\"hidden\":false,\"id\":\"347223\",\"lat\":\"31.59808\",\"lgShopId\":0,\"lng\":\"120.804949\",\"mainland\":true,\"mobile\":\"18852401491\",\"name\":\"\",\"needUpdate4Address\":false,\"needUpgradeAddress\":false,\"platformType\":\"PC\",\"postCode\":\"000000\",\"provinceName\":\"江苏\",\"stationId\":0,\"status\":\"normal\",\"storeAddress\":true,\"townDivisionId\":320581402,\"townName\":\"江苏省常熟高新技术产业开发区\",\"updateAddressTip\":\"\"},{\"addressDetail\":\"凤凰新城中吴大道凤凰路西北角中海凤凰熙岸\",\"addressIconUrl\":\"\",\"areaName\":\"天宁\",\"attributes\":[],\"checked\":false,\"cityName\":\"常州\",\"consolidationGuide\":false,\"countryName\":\"\",\"defaultAddress\":false,\"deliveryAddressId\":9121171556,\"disable\":false,\"divisionCode\":\"320402\",\"enableMDZT\":false,\"enableStation\":false,\"enforceUpdate4Address\":true,\"fullName\":\"包海艳\",\"hidden\":false,\"id\":\"347224\",\"lat\":\"31.749226\",\"lgShopId\":0,\"lng\":\"119.990454\",\"mainland\":true,\"mobile\":\"18076666692\",\"name\":\"\",\"needUpdate4Address\":false,\"needUpgradeAddress\":false,\"platformType\":\"PC\",\"postCode\":\"000000\",\"provinceName\":\"江苏\",\"stationId\":0,\"status\":\"normal\",\"storeAddress\":true,\"townDivisionId\":320402001,\"townName\":\"雕庄\",\"updateAddressTip\":\"\"},{\"addressDetail\":\"东南开发区银环路98号颉敏服饰\",\"addressIconUrl\":\"\",\"areaName\":\"常熟\",\"attributes\":[],\"checked\":false,\"cityName\":\"苏州\",\"consolidationGuide\":false,\"countryName\":\"\",\"defaultAddress\":false,\"deliveryAddressId\":7464794685,\"disable\":false,\"divisionCode\":\"320581\",\"enableMDZT\":false,\"enableStation\":false,\"enforceUpdate4Address\":true,\"fullName\":\"徐龙花\",\"hidden\":false,\"id\":\"347225\",\"lat\":\"31.613546\",\"lgShopId\":0,\"lng\":\"120.794778\",\"mainland\":true,\"mobile\":\"18015615709\",\"name\":\"\",\"needUpdate4Address\":true,\"needUpgradeAddress\":false,\"platformType\":\"PC\",\"postCode\":\"215500\",\"provinceName\":\"江苏\",\"stationId\":0,\"status\":\"normal\",\"storeAddress\":true,\"townDivisionId\":0,\"updateAddressTip\":\"\"},{\"addressDetail\":\"环龙新纪园(优先打15636739187，打不通就打18852401491，然后东西放物业)\",\"addressIconUrl\":\"\",\"areaName\":\"浦东\",\"attributes\":[],\"checked\":false,\"cityName\":\"上海\",\"consolidationGuide\":false,\"countryName\":\"\",\"defaultAddress\":false,\"deliveryAddressId\":8297033311,\"disable\":false,\"divisionCode\":\"310115\",\"enableMDZT\":false,\"enableStation\":false,\"enforceUpdate4Address\":true,\"fullName\":\"王萌\",\"hidden\":false,\"id\":\"347226\",\"lat\":\"31.205283\",\"lgShopId\":0,\"lng\":\"121.554036\",\"mainland\":true,\"mobile\":\"18852401491\",\"name\":\"\",\"needUpdate4Address\":false,\"needUpgradeAddress\":false,\"platformType\":\"PC\",\"postCode\":\"000000\",\"provinceName\":\"上海\",\"stationId\":0,\"status\":\"normal\",\"storeAddress\":true,\"townDivisionId\":310115016,\"townName\":\"花木\",\"updateAddressTip\":\"\"},{\"addressDetail\":\"江苏省苏州市金阊区干将西路菱塘新村20幢501室\",\"addressIconUrl\":\"\",\"areaName\":\"姑苏\",\"attributes\":[],\"checked\":false,\"cityName\":\"苏州\",\"consolidationGuide\":false,\"countryName\":\"\",\"defaultAddress\":false,\"deliveryAddressId\":8564818716,\"disable\":false,\"divisionCode\":\"320508\",\"enableMDZT\":false,\"enableStation\":false,\"enforceUpdate4Address\":true,\"fullName\":\"包煜\",\"hidden\":false,\"id\":\"347227\",\"lat\":\"31.30343\",\"lgShopId\":0,\"lng\":\"120.599843\",\"mainland\":true,\"mobile\":\"18852401491\",\"name\":\"\",\"needUpdate4Address\":false,\"needUpgradeAddress\":false,\"platformType\":\"PC\",\"postCode\":\"000000\",\"provinceName\":\"江苏\",\"stationId\":0,\"status\":\"normal\",\"storeAddress\":true,\"townDivisionId\":320508013,\"townName\":\"石路\",\"updateAddressTip\":\"\"},{\"addressDetail\":\"济学路8号(苏大阳澄湖校区)\",\"addressIconUrl\":\"\",\"areaName\":\"相城\",\"attributes\":[],\"checked\":false,\"cityName\":\"苏州\",\"consolidationGuide\":false,\"countryName\":\"\",\"defaultAddress\":false,\"deliveryAddressId\":5649622366,\"disable\":false,\"divisionCode\":\"320507\",\"enableMDZT\":false,\"enableStation\":false,\"enforceUpdate4Address\":true,\"fullName\":\"包煜\",\"hidden\":false,\"id\":\"347228\",\"lat\":\"31.386294\",\"lgShopId\":0,\"lng\":\"120.673887\",\"mainland\":true,\"mobile\":\"18852401491\",\"name\":\"\",\"needUpdate4Address\":false,\"needUpgradeAddress\":false,\"platformType\":\"PC\",\"postCode\":\"000000\",\"provinceName\":\"江苏\",\"stationId\":0,\"status\":\"normal\",\"storeAddress\":true,\"townDivisionId\":320507002,\"townName\":\"太平\",\"updateAddressTip\":\"\"},{\"addressDetail\":\"江苏省东台市九天北路7号201室\",\"addressIconUrl\":\"\",\"areaName\":\"东台\",\"attributes\":[],\"checked\":false,\"cityName\":\"盐城\",\"consolidationGuide\":false,\"countryName\":\"\",\"defaultAddress\":false,\"deliveryAddressId\":5343860781,\"disable\":false,\"divisionCode\":\"320981\",\"enableMDZT\":false,\"enableStation\":false,\"enforceUpdate4Address\":true,\"fullName\":\"崔航\",\"hidden\":false,\"id\":\"347229\",\"lat\":\"32.8531515002\",\"lgShopId\":0,\"lng\":\"120.328635\",\"mainland\":true,\"mobile\":\"18912519187\",\"name\":\"\",\"needUpdate4Address\":false,\"needUpgradeAddress\":false,\"platformType\":\"PC\",\"postCode\":\"224203\",\"provinceName\":\"江苏\",\"stationId\":0,\"status\":\"normal\",\"storeAddress\":true,\"townDivisionId\":320981122,\"townName\":\"东台\",\"updateAddressTip\":\"\"}]","options":[{"deliveryAddressId":"9306855428","fullName":"包煜","mobile":"18852401491","cityName":"常州","addressDetail":"中吴大道中海凤凰熙岸5幢702室","needUpdate4Address":false,"divisionCode":"320402","enforceUpdate4Address":true,"areaName":"天宁","storeAddress":true,"enableStation":false,"countryName":"","provinceName":"江苏","postCode":"000000","townDivisionId":"320402001","defaultAddress":true,"stationId":"0","lgShopId":"0","townName":"雕庄","enableMDZT":false},{"deliveryAddressId":"8742370473","fullName":"包煜","mobile":"18852401491","cityName":"苏州","addressDetail":"常熟市高新技术开发区薇尼诗花园西区12幢1403室","needUpdate4Address":false,"divisionCode":"320581","enforceUpdate4Address":true,"areaName":"常熟","storeAddress":true,"enableStation":false,"countryName":"","provinceName":"江苏","postCode":"000000","townDivisionId":"320581402","defaultAddress":false,"stationId":"0","lgShopId":"0","townName":"江苏省常熟高新技术产业开发区","enableMDZT":false},{"deliveryAddressId":"9121171556","fullName":"包海艳","mobile":"18076666692","cityName":"常州","addressDetail":"凤凰新城中吴大道凤凰路西北角中海凤凰熙岸","needUpdate4Address":false,"divisionCode":"320402","enforceUpdate4Address":true,"areaName":"天宁","storeAddress":true,"enableStation":false,"countryName":"","provinceName":"江苏","postCode":"000000","townDivisionId":"320402001","defaultAddress":false,"stationId":"0","lgShopId":"0","townName":"雕庄","enableMDZT":false},{"deliveryAddressId":"7464794685","fullName":"徐龙花","mobile":"18015615709","cityName":"苏州","addressDetail":"东南开发区银环路98号颉敏服饰","needUpdate4Address":true,"divisionCode":"320581","enforceUpdate4Address":true,"areaName":"常熟","storeAddress":true,"enableStation":false,"countryName":"","provinceName":"江苏","postCode":"215500","townDivisionId":"0","defaultAddress":false,"stationId":"0","lgShopId":"0","enableMDZT":false},{"deliveryAddressId":"8297033311","fullName":"王萌","mobile":"18852401491","cityName":"上海","addressDetail":"环龙新纪园(优先打15636739187，打不通就打18852401491，然后东西放物业)","needUpdate4Address":false,"divisionCode":"310115","enforceUpdate4Address":true,"areaName":"浦东","storeAddress":true,"enableStation":false,"countryName":"","provinceName":"上海","postCode":"000000","townDivisionId":"310115016","defaultAddress":false,"stationId":"0","lgShopId":"0","townName":"花木","enableMDZT":false},{"deliveryAddressId":"8564818716","fullName":"包煜","mobile":"18852401491","cityName":"苏州","addressDetail":"江苏省苏州市金阊区干将西路菱塘新村20幢501室","needUpdate4Address":false,"divisionCode":"320508","enforceUpdate4Address":true,"areaName":"姑苏","storeAddress":true,"enableStation":false,"countryName":"","provinceName":"江苏","postCode":"000000","townDivisionId":"320508013","defaultAddress":false,"stationId":"0","lgShopId":"0","townName":"石路","enableMDZT":false},{"deliveryAddressId":"5649622366","fullName":"包煜","mobile":"18852401491","cityName":"苏州","addressDetail":"济学路8号(苏大阳澄湖校区)","needUpdate4Address":false,"divisionCode":"320507","enforceUpdate4Address":true,"areaName":"相城","storeAddress":true,"enableStation":false,"countryName":"","provinceName":"江苏","postCode":"000000","townDivisionId":"320507002","defaultAddress":false,"stationId":"0","lgShopId":"0","townName":"太平","enableMDZT":false},{"deliveryAddressId":"5343860781","fullName":"崔航","mobile":"18912519187","cityName":"盐城","addressDetail":"江苏省东台市九天北路7号201室","needUpdate4Address":false,"divisionCode":"320981","enforceUpdate4Address":true,"areaName":"东台","storeAddress":true,"enableStation":false,"countryName":"","provinceName":"江苏","postCode":"224203","townDivisionId":"320981122","defaultAddress":false,"stationId":"0","lgShopId":"0","townName":"东台","enableMDZT":false}],"receiveMethodType":"normal","selectedId":"9306855428","sites":"[]","tips":{},"title":"选择收货地址","updateAddressAPI":"/auction/update_buyer_address.htm?_input_charset=utf-8","useMDZT":false,"useStation":false},"id":"1","ref":"0394592","submit":true,"tag":"addressPC","type":"native$null$address"},"agencyPayPC_1":{"fields":{"checked":false,"disabled":false,"label":"朋友代付"},"id":"1","ref":"c287c09","submit":true,"tag":"agencyPayPC","type":"native$null$checkbox"},"anonymousPC_1":{"fields":{"checked":true,"disabled":false,"label":"匿名购买"},"id":"1","ref":"907bd01","submit":true,"tag":"anonymousPC","type":"native$null$checkbox"},"confirmOrder_1":{"fields":{},"hidden":{"extensionMap":{"__ex_params__":"{\"ovspayrendercnaddresskey\":true,\"ovspayrenderkey\":false}","joinId":"5fc85ec01dbdeeccf6ebd56ae155dff7","pageType":"TMALL","sid":"9eea5439bac16005c85394fbffd9f6b6","umid":"CV1fz5e8882370142718c000887b234c1","umidToken":"T9175417dddbaf1319e64f16882f5a083"}},"id":"1","ref":"8318d7a","submit":true,"tag":"confirmOrder","type":"block$null$emptyBlock"},"deliveryMethodPC_ee1811abfef41c4d7d24128b3fb3c7ae":{"fields":{"checked":true,"hasCod":false,"options":[{"fare":"0.00","serviceType":"-4","message":"快递 免邮","signText":"","extra":"","titleText":"普通配送","hasOption":false,"id":"2","fareCent":"0"}],"secondOption":false,"selectedId":"2"},"hidden":{"extensionMap":{"deliveryId":"ee1811abfef41c4d7d24128b3fb3c7ae","options":"[{\"fareCent\":0,\"id\":\"2\",\"serviceType\":\"-4\"}]"}},"id":"ee1811abfef41c4d7d24128b3fb3c7ae","ref":"2312f91","submit":true,"tag":"deliveryMethodPC","type":"native$null$deliveryMethod"},"frontTracePC_1":{"fields":{"joinId":"1830801121823"},"id":"1","ref":"e61fd52","tag":"frontTracePC","type":"native$null$frontTrace"},"itemInfoPC_5fc85ec01dbdeeccf6ebd56ae155dff7":{"fields":{"icons":[{"title":"消费者保障服务，卖家承诺7天退换","text":"","image":"//img.alicdn.com/tps/i3/T1Vyl6FCBlXXaSQP_X-16-16.png","link":"//pages.tmall.com/wow/seller/act/seven-day","sortNo":"10","iconType":"main"},{"title":"消费者保障服务，卖家承诺如实描述","text":"","image":"//img.alicdn.com/tps/i4/T1BCidFrNlXXaSQP_X-16-16.png","link":"//www.taobao.com/go/act/315/xfzbz_rsms.php?ad_id=&am_id=130011830696bce9eda3&cm_id=&pm_id=","sortNo":"11","iconType":"main"},{"title":"支持信用卡支付","text":"","image":"//assets.alicdn.com/sys/common/icon/trade/xcard.png","iconType":"main"}],"isGift":false,"itemInfoId":"575739054942","itemUrl":"//detail.tmall.com/item.htm?id=575739054942","pic":"//img.alicdn.com/imgextra/i2/684387459/TB26OmApQomBKNjSZFqXXXtqVXa_!!684387459-0-item_pic.jpg","price":"52.00","priceInfo":{"valueStyles":{"color":"#FF4400"},"bottomText":"","value":"52.00"},"promotionList":{"bottomText":"","selectedId":""},"quantity":{"min":"1","quantity":"1","title":"购买数量","step":"1","editable":false,"max":"43"},"sellerNick":"墨轩文阁图书专营店","shopUrl":"//store.taobao.com/shop/view_shop.htm?shop_id=65662244","skuId":"0","subtitles":[],"title":"正版现货 商务印书馆 海德格尔文集：巴门尼德 马丁&middot;海德格尔 著 海德格尔对巴门尼德真理概念的解读"},"hidden":{"extensionMap":{"orderOutId":"","outId":"","promotionType":"","villagerOrderId":"0"}},"id":"5fc85ec01dbdeeccf6ebd56ae155dff7","ref":"1035de9","submit":true,"tag":"itemInfoPC","type":"native$null$itemRow"},"item_5fc85ec01dbdeeccf6ebd56ae155dff7":{"fields":{"bgColor":"#fbfcff","borderBottom":"1px dotted #ddd","direction":"column"},"hidden":{"extensionMap":{"bizCode":"ali.china.tmall.appliance","cartId":"917038133317","itemId":"575739054942","shoppingOrderId":"0","skuId":"0","valid":"true","villagerId":"0"}},"id":"5fc85ec01dbdeeccf6ebd56ae155dff7","ref":"b72dcaa","submit":true,"tag":"item","type":"native$null$flex"},"memoPC_ee1811abfef41c4d7d24128b3fb3c7ae":{"fields":{"label":"给卖家留言：","placeHolder":"选填,请先和商家协商一致","value":"","warn":{"content":"此处所填内容仅限对商家的温馨提醒，若您需改变订单内容或另有特殊需求，请您务必通过旺旺与商家确认一致。否则，该填写内容将视为无效。","title":"重要提醒"}},"id":"ee1811abfef41c4d7d24128b3fb3c7ae","ref":"78d258e","submit":true,"tag":"memoPC","type":"native$null$textArea"},"menberBenefitsFlex_1":{"fields":{"direction":"column","subDirection":"end"},"id":"1","ref":"656e6af","tag":"menberBenefitsFlex","type":"native$null$flex"},"ncCheckCode_ncCheckCode1":{"fields":{"nc":"1","token":"4f02d126a93366fa06e38465b4662af69b9bb4fb"},"id":"ncCheckCode1","ref":"fc57d42","submit":true,"tag":"ncCheckCode","type":"native$null$ncCheckCode"},"orderDesc_orderDesc_1":{"fields":{"headers":["店铺宝贝","商品属性","单价","数量","优惠方式","小计"],"title":"确认订单信息"},"id":"orderDesc_1","ref":"622cdf6","tag":"orderDesc","type":"native$null$itemHeader"},"orderExtLeftPC_ee1811abfef41c4d7d24128b3fb3c7ae":{"fields":{"direction":"column","gap":"10","gridBorderColor":"#fff","mainDirection":"start"},"id":"ee1811abfef41c4d7d24128b3fb3c7ae","ref":"6f00335","tag":"orderExtLeftPC","type":"native$null$flex"},"orderExtPC_ee1811abfef41c4d7d24128b3fb3c7ae":{"fields":{"bgColor":"#f2f7ff","borderBottom":"1px dotted #80b2ff","direction":"column","gridBorderColor":"#fff"},"id":"ee1811abfef41c4d7d24128b3fb3c7ae","ref":"98a96fa","tag":"orderExtPC","type":"native$null$flex"},"orderExtRightPC_ee1811abfef41c4d7d24128b3fb3c7ae":{"fields":{"direction":"column","gap":"10","gridBorderColor":"#fff","mainDirection":"start"},"id":"ee1811abfef41c4d7d24128b3fb3c7ae","ref":"1dbade8","tag":"orderExtRightPC","type":"native$null$flex"},"orderExtUpperPC_ee1811abfef41c4d7d24128b3fb3c7ae":{"fields":{"direction":"row","equality":"2","gridBorderColor":"#fff","mainDirection":"spaceBetween"},"id":"ee1811abfef41c4d7d24128b3fb3c7ae","ref":"dd37e71","tag":"orderExtUpperPC","type":"native$null$flex"},"orderPayLayoutPC_ee1811abfef41c4d7d24128b3fb3c7ae":{"fields":{"direction":"column","mainDirection":"end","padding":"10px 0","subDirection":"end"},"id":"ee1811abfef41c4d7d24128b3fb3c7ae","ref":"0315aad","tag":"orderPayLayoutPC","type":"native$null$flex"},"orderPayPC_ee1811abfef41c4d7d24128b3fb3c7ae":{"fields":{"header":"店铺合计(含运费)","value":"￥52.00","valueStyles":{"color":"#FF4400","bold":true}},"id":"ee1811abfef41c4d7d24128b3fb3c7ae","ref":"35419b9","tag":"orderPayPC","type":"native$null$label"},"order_ee1811abfef41c4d7d24128b3fb3c7ae":{"cardGroup":"true","fields":{},"id":"ee1811abfef41c4d7d24128b3fb3c7ae","ref":"a9dc6bd","tag":"order","type":"block$null$emptyBlock"},"postageInsurancePC_ee1811abfef41c4d7d24128b3fb3c7ae":{"fields":{"amount":"0","checkBoxOptions":[{"bizType":"1","request":true,"tips":"退换货可赔付11元","url":"https://render.alipay.com/p/h5/insscene/www/insureProtocol.html?1=1&buyerId=2242627299&sellerId=684387459&serviceId=1064","viewPrice":"0.00","storeId":"0","useGroup":"yfx","readonly":false,"text":"￥0.70购买","checked":false,"price":"70","value":"0.70","serviceId":"1064","supportOtherAddrees":false}],"checked":false,"choicePrice":"0.00","groupTitle":"运费险","outId":"ee1811abfef41c4d7d24128b3fb3c7ae","required":false,"supportOtherAddress":false,"vertical":false},"id":"ee1811abfef41c4d7d24128b3fb3c7ae","ref":"28becd6","submit":true,"tag":"postageInsurancePC","type":"native$null$postageInsurance"},"presellDescGroupPC_presellDescGroup_presellDescGroupee1811abfef41c4d7d24128b3fb3c7ae":{"fields":{},"id":"presellDescGroup_presellDescGroupee1811abfef41c4d7d24128b3fb3c7ae","ref":"c315959","tag":"presellDescGroupPC","type":"native$null$descriptionGroup"},"realPayPC_1":{"fields":{"addressText":" 江苏 常州 天宁 雕庄 中吴大道中海凤凰熙岸5幢702室","fullName":"包煜","mallTotalPrice":"5200","microPurchaseTotalPrice":"0","mobile":"18852401491","needUpdate4Address":false,"originPrice":"52.00","price":"50.44","quantity":"1","receiveMethodType":"normal","selectedId":"9306855428","tmallHkTotalPrice":"0"},"hidden":{"extensionMap":{"timestamp":"1587565788333"}},"id":"1","ref":"c601752","tag":"realPayPC","type":"native$null$realPay"},"riderClauseContentFlex_riderClause_content_1":{"fields":{"direction":"row","gap":"30","mainDirection":"end"},"id":"riderClause_content_1","ref":"510e227","tag":"riderClauseContentFlex","type":"native$null$flex"},"riderClausePC_riderClause_1":{"fields":{"borderBottom":"1px dotted #ddd","direction":"column","mainDirection":"end","padding":"0","subDirection":"end"},"id":"riderClause_1","ref":"4b36852","tag":"riderClausePC","type":"native$null$flex"},"seller_ee1811abfef41c4d7d24128b3fb3c7ae":{"fields":{"icon":"//gw.alicdn.com/tfs/TB1CzD7SXXXXXXJaXXXXXXXXXXX-32-32.png","isShowWangWang":true,"sellerUrl":"//member1.taobao.com/member/user_profile.jhtml?encUserNumId=IDX1u3-GDXXrGAI1lXu-4gDveyyeEgdKCNoYq2HpvHa1H0ZR5RPgH0g-pamNCD3i1sA4&sign=5d9adb865a9d06156557a61de4c08a8c","shopLabel":"店铺","shopName":"墨轩文阁图书专营店","shopUrl":"//store.taobao.com/shop/view_shop.htm?shop_id=65662244"},"id":"ee1811abfef41c4d7d24128b3fb3c7ae","ref":"7b734da","tag":"seller","type":"native$null$seller"},"stationAgencyService_1":{"fields":{"agencyId":"0","agencyReceive":"1","disable":false,"fullName":"包煜","hasService":true,"helpLink":"//www.cainiao.com/markets/cnwww/userhelpdoc","linkAddressId":"9306855428","linkDivisionCode":"320402","linkTownDivisionCode":"320402001","mobile":"18852401491","tip":"免费","title":"菜鸟驿站代收服务","useAgencyType":"0"},"id":"1","ref":"7057e18","submit":true,"tag":"stationAgencyService","type":"native$null$stationAgencyService"},"stationTabPC_1":{"fields":{},"id":"1","ref":"2ac3f2e","tag":"stationTabPC","type":"native$null$tab"},"stepbarPC_1":{"fields":{"current":"1","isShowVillager":false,"options":["查看购物车","拍下商品","付款到支付宝","确认收货","评价"],"stepBarType":"MALL_CART"},"id":"1","ref":"e2d54b5","tag":"stepbarPC","type":"native$null$stepbar"},"submitOrderPC_1":{"fields":{"cartText":"返回购物车","cartUrl":"//cart.taobao.com/cart.htm","fromCart":true,"fromMallYaoCart":false,"isTmallHKPresellOrder":false,"isTmallHKPresellSelf":false,"needUpdate4Address":false,"priceTips":"若价格变动，请在提交订单后联系卖家改价，并查看已买到的宝贝","showPrice":"50.44","submitOrderType":"UNITY","submitTitle":"提交订单","tmallPointStatus":"0"},"hidden":{"extensionMap":{"action":"/order/multiTerminalSubmitOrderAction","event_submit_do_confirm":"1","input_charset":"utf-8","pcSubmitUrl":"/auction/confirm_order.htm?x-itemid=575739054942&x-uid=2242627299","secretKey":"submitref","secretValue":"a1ce272af0658de601adc7b00703b4ca","sparam1":"eyJsaXN0Ijp7IjY1NDA4Ijp7ImJ1eWFtb3VudCI6MSwiZGlzY291bnRUb3RhbEZlZSI6NTIwMCwic2VsbGVySWQiOjY4NDM4NzQ1OSwidG90YWxGZWUiOjUyMDB9fSwibG9naXNSZWN2QWRkciI6IuS4reWQtOWkp+mBk+S4rea1t+WHpOWHsOeGmeWyuDXluaI3MDLlrqQiLCJsb2dpc1JlY3ZNb2JsIjoiMTg4NTI0MDE0OTEiLCJvcmRlcmZyb213aGVyZSI6InRtYWxsX3BjIiwidW1pZCI6IkNWMWZ6NWU4ODgyMzcwMTQyNzE4YzAwMDg4N2IyMzRjMSJ9","sparam2":"eyJsaXN0Ijp7IjY1NDA4Ijp7ImJ1eVF1YW50aXR5IjoxLCJjYXRpZCI6NTAwMDQ4OTksIml0ZW1JZCI6NTc1NzM5MDU0OTQyLCJvbGRTdGFydCI6MTUzNDUwODg5NjAwMCwib3B0aW9ucyI6ODYyMzQ4OTAyNCwib3JkZXJDb3N0Ijo0LCJyZXNydlByaWNlIjo1MjAwLCJza3VJZCI6MCwidGFncyI6IjEwMTc2MSw3MzA4OSwxMDY4ODEsMTA4ODAxLDExMTQ4OSwxMjA1NzcsMTIzOTA1LDIwNDksNTEzMjksMjQ5ODU4LDIxNzYyLDEwMTc2MiwxNjIxNzcsMTc5NzEzLDE4Njc1MywyNjg0MTgsNDYxNCwzOTc0LDM0NjYsMjA1OSwyNDQzLDExNjMsMTY3NSwxODAzLDQ0OTEsNzk0Nyw4ODQzLDIyMTU1LDE0MzQ3NTQsODQ4MDEsODk2NjUsMTAzNDg5LDEwODIyNSwxMTMzNDUsMTIyMTc3LDI4MzUzLDM2NDE3LDM3NTY5LDE1NTU0LDIxODI2LDI4ODY2LDEzNzI4MSwxNDExMjEsMTQ3NTIxLDE1Mzc5MywxNTUwNzMsMjk5NDU4LDQ1NTAsNDY3OCw0MTY2LDE0NzgsMjUwNywxNjExLDU4NywxNDgzLDI2MzUsNDgxMSw0OTM5LDczNzEsNzg4MywxMDU3MSwxMTA4MywxMTcyMywxNzk5NSwxOTY1OSwxOTc4NywxMjU0MjEwIiwidGl0bGUiOiLmraPniYjnjrDotKcg5ZWG5Yqh5Y2w5Lmm6aaGIOa1t+W+t+agvOWwlOaWh+mbhu+8muW3tOmXqOWwvOW+tyDpqazkuIHCt+a1t+W+t+agvOWwlCDokZcg5rW35b635qC85bCU5a+55be06Zeo5bC85b6355yf55CG5qaC5b+155qE6Kej6K+7IiwidmlydHVhbCI6ZmFsc2V9fX0=","unitSuffix":"rz24"}},"id":"1","ref":"35c4cbb","submit":true,"tag":"submitOrderPC","type":"native$null$submitOrder"},"tbGoldPCCheckbox_1":{"fields":{"bottomText":"（你有1000个，可用156个）","checked":true,"currencySymbolStyles":{"color":"#999999"},"disabled":false,"label":"使用淘金币156个","price":"-1.56","priceStyles":{"color":"#404040"},"showBorderBottom":true},"hidden":{"extensionMap":{"sellerAvailablePoint":"-1","totalPoint":"1000","usePoint":"156"}},"id":"1","ref":"6b0ea1f","submit":true,"tag":"tbGoldPCCheckbox","type":"native$null$checkbox"},"urlTransferPC_1":{"fields":{},"id":"1","ref":"65a4400","tag":"urlTransferPC","type":"native$null$urlTransfer"}},"linkage":{"common":{"compress":true,"queryParams":"^^$$Z2e612e07e258d0a20d8545a468b96d974|null{$_$}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","submitParams":"^^$$Z2fd3e79718351f1cd1f71dadd555edfc5|null{$_$}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","validateParams":"^^$$04a68c3f2626fbb44269d9111518fd2b{$_$}H4sIAAAAAAAAAIVQy0oDQRD8lzmHYbNmkzW37K4LQgwLRsGTdGY6yZJ5MTNBY8gf+BlexO8Sf8NegxgP4q2r6K6qrj1betD4YP2mAZrCpXaKjffMKYhL6/V857DDQkEIM1plYyas5qDaBSyARw8SuVAtmsi1lah4sFsvkDcnCrcp6zFzvG5Kmq2XrQFy6h96zMEK//KJYBdgOVk6azoPuSOdVnCNEU7obkHhIy9u7lLefAsetSly1KAU+UoMguD7y+vH8xthDX6DkZiffPOryXT6K+I5ZVRWgOqef1rflzNGzDagn4TQrsz//YQ1eJTceQz0A8TWGu66vnkFEW6pTPlV/7EnRFmuUWxKqpONl6AC9hga4XcuXkffmhXlGGVpXqdVkddJPUqr4aQ/GCR5VlTF2TDPyv5wlCR5mSRJnWZFVl2ww+ETxNaeRe0BAAA="},"input":["memoPC_ee1811abfef41c4d7d24128b3fb3c7ae","tbGoldPCCheckbox_1","submitOrderPC_1"],"request":["itemInfoPC_5fc85ec01dbdeeccf6ebd56ae155dff7","tbGoldPCCheckbox_1","postageInsurancePC_ee1811abfef41c4d7d24128b3fb3c7ae","addressPC_1","submitOrderPC_1","stationAgencyService_1","agencyPayPC_1","deliveryMethodPC_ee1811abfef41c4d7d24128b3fb3c7ae"],"signature":"2b012ce4099b341ae3d2cabf7d5a4cfb","url":"/auction/json/async_linkage.do?_input_charset=utf-8"},"hierarchy":{"baseType":["native$null$descriptionGroup","native$null$label","native$null$itemRow","native$null$stepbar","block$null$emptyBlock","native$null$flex","native$null$frontTrace","native$null$urlTransfer","native$null$seller","native$null$postageInsurance","native$null$address","native$null$ncCheckCode","native$null$stationAgencyService","native$null$itemHeader","native$null$realPay","native$null$submitOrder","native$null$textArea","native$null$deliveryMethod","native$null$tab","native$null$checkbox"],"component":["seller","stationTabPC","riderClausePC","addressPC","tbGoldPCCheckbox","frontTracePC","stationAgencyService","orderExtPC","postageInsurancePC","orderExtLeftPC","orderPayPC","riderClauseContentFlex","deliveryMethodPC","agencyPayPC","itemInfoPC","orderPayLayoutPC","orderDesc","order","item","presellDescGroupPC","menberBenefitsFlex","anonymousPC","orderExtRightPC","memoPC","realPayPC","confirmOrder","submitOrderPC","stepbarPC","ncCheckCode","orderExtUpperPC","urlTransferPC"],"root":"confirmOrder_1","structure":{"confirmOrder_1":["stepbarPC_1","addressPC_1","stationTabPC_1","orderDesc_orderDesc_1","order_ee1811abfef41c4d7d24128b3fb3c7ae","menberBenefitsFlex_1","riderClausePC_riderClause_1","realPayPC_1","submitOrderPC_1","frontTracePC_1","urlTransferPC_1","ncCheckCode_ncCheckCode1"],"item_5fc85ec01dbdeeccf6ebd56ae155dff7":["itemInfoPC_5fc85ec01dbdeeccf6ebd56ae155dff7"],"menberBenefitsFlex_1":["tbGoldPCCheckbox_1"],"orderExtLeftPC_ee1811abfef41c4d7d24128b3fb3c7ae":["memoPC_ee1811abfef41c4d7d24128b3fb3c7ae"],"orderExtPC_ee1811abfef41c4d7d24128b3fb3c7ae":["orderExtUpperPC_ee1811abfef41c4d7d24128b3fb3c7ae","orderPayLayoutPC_ee1811abfef41c4d7d24128b3fb3c7ae"],"orderExtRightPC_ee1811abfef41c4d7d24128b3fb3c7ae":["deliveryMethodPC_ee1811abfef41c4d7d24128b3fb3c7ae","postageInsurancePC_ee1811abfef41c4d7d24128b3fb3c7ae"],"orderExtUpperPC_ee1811abfef41c4d7d24128b3fb3c7ae":["orderExtLeftPC_ee1811abfef41c4d7d24128b3fb3c7ae","orderExtRightPC_ee1811abfef41c4d7d24128b3fb3c7ae"],"orderPayLayoutPC_ee1811abfef41c4d7d24128b3fb3c7ae":["orderPayPC_ee1811abfef41c4d7d24128b3fb3c7ae","presellDescGroupPC_presellDescGroup_presellDescGroupee1811abfef41c4d7d24128b3fb3c7ae"],"order_ee1811abfef41c4d7d24128b3fb3c7ae":["seller_ee1811abfef41c4d7d24128b3fb3c7ae","item_5fc85ec01dbdeeccf6ebd56ae155dff7","orderExtPC_ee1811abfef41c4d7d24128b3fb3c7ae"],"riderClauseContentFlex_riderClause_content_1":["agencyPayPC_1","anonymousPC_1"],"riderClausePC_riderClause_1":["riderClauseContentFlex_riderClause_content_1"],"stationTabPC_1":["stationAgencyService_1"]}},"reload":true} ;
+</script>
+   <script id="script" charset="UTF-8" type="text/javascript" src="//g.alicdn.com/tp/buy2/1.5.0/index.js"></script>
+ 
+
+ 
+ <span id="taobao-server-num" style="color: #FFF">buy2011176180076.center.na620  3d9bddc915875657882293509e</span>
+
+<script src="//g.alicdn.com/mui/??bat/4.0.35/index.js,tes/4.2.17/index.js"></script>
+</body>
+</html>
